@@ -12,7 +12,7 @@
 - ⚡ **Fun fact:** I enjoy learning about Virtual Machines and exploring Linux Mint!
 
 ### 🌐 Connect with me:
-[<img align="left" alt="Soumodipto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/soumodipto-mandal/]
+[<img align="left" alt="Soumodipto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/soumodipto-mandal/)
 [<img align="left" alt="Soumodipto | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:soumomandal7@gmail.com)
 <br/>
 <br/>
@@ -30,27 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<br/>
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumo-18&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Soumo-18&theme=merko&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo-18&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-### 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumo-18&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Soumo-18&icon=0&color=0" />
-  </a>
-</div>
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/drizzle-%23C5F74F.svg?style=flat-square&logo=drizzle&logoColor=black)
+![Zod
