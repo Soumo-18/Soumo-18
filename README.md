@@ -9,12 +9,10 @@
 
 ### 👨‍💻 What I'm up to:
 - 🔭 **Currently working on:** Full-stack web applications and secure authentication (TypeScript, Drizzle, PostgreSQL).
-- 🌱 **Currently learning:** Deepening my knowledge in **Java DSA**, Advanced DOM/BOM concepts, and Computer Networking.
-- 👯 **Looking to collaborate on:** Open-source web development projects.
 - ⚡ **Fun fact:** I enjoy learning about Virtual Machines and exploring Linux Mint!
 
 ### 🌐 Connect with me:
-[<img align="left" alt="Soumodipto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][your_linkedin_url_here]
+[<img align="left" alt="Soumodipto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/soumodipto-mandal/]
 [<img align="left" alt="Soumodipto | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:soumomandal7@gmail.com)
 <br/>
 <br/>
